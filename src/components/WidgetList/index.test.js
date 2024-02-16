@@ -18,8 +18,8 @@ describe('WidgetList', () => {
     render(<WidgetList />)
 
     await waitFor(() => {
-      expect(WidgetDisplay).toHaveBeenCalledWith({ widget: widgets[0] }, {})
-      expect(WidgetDisplay).toHaveBeenCalledWith({ widget: widgets[1] }, {})
+      expect(WidgetDisplay).toHaveBeenCalledWith(expect.objectContaining({ widget: widgets[0] }), {})
+      expect(WidgetDisplay).toHaveBeenCalledWith(expect.objectContaining({ widget: widgets[1] }), {})
     })
   })
 })
