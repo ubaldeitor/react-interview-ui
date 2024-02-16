@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# TalentReef React UI Interview Template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This [Create React App](https://github.com/facebook/create-react-app) project is provided as a starting template for the TalentReef take-home interview. Feel free to make whatever modifications are necessary to complete the exercise.
+
+## Requirements
+
+Node 20 -- Node can be acquired using [Node Version Manager](https://github.com/nvm-sh/nvm)
 
 ## Available Scripts
 
@@ -68,3 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Additional Information
+
+TalentReef will provide you the contact information of a person who can answer questions about the exercise.
