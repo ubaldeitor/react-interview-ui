@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.display-widget {border: blue solid 1px}
+.widget-name {font-size: large}
+.widget-price {font-weight: bold; font-size: x-small}
+.widget-list {font-size: x-large; border: black solid 1px ; height: 100%; width: 200px;}
